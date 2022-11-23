@@ -1,2 +1,2 @@
-# manoli-iborra.github.io
-Repositorio de Lenguaje R
+# Manoli Iborra Campos
+Docente IES Severo Ochoa
